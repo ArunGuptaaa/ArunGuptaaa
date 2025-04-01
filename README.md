@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Currently working on: A Data Analytics project in the Hospitality domain<br>👯 Looking to collaborate on: Open-source projects related to data analytics<br>🤝 Looking for help with: Gaining deeper industry knowledge in data analytics<br>📖 Currently learning: Expanding my domain knowledge to drive data-driven decisions<br>💬 Ask me about: Anything data-related—SQL, Python, Power BI, or uncovering insights from data!<br>😄 Fun fact: Ever since I started learning about data, I see patterns and insights everywhere!
 
-Het There
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arun-kumar-gupta-393127208/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arungupta.inf@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_arungupta)
 
